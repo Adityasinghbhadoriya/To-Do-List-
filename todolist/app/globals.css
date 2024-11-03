@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyxcoWsT3iIVo9TJ6hV9IB5Q23JscMoc8ew&s);
+}
